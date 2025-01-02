@@ -1,0 +1,29 @@
+.header-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    padding: 20px;
+    color: white;
+    text-align: center;
+  }
+  
+  .shgxHo9k.logo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+  }
+  
+  .F0mpN.title h1 {
+    font-size: 2em;
+    margin: 0;
+  }
+  
+  .F0mpN.title p {
+    font-size: 1.2em;
+    margin: 5px 0 0;
+    color: #ecf0f1;
+  }
+  
